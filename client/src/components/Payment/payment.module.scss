@@ -1,0 +1,29 @@
+.main {
+	
+	border: 2px solid rgb(149, 226, 146);
+	border-radius:20px;
+	margin: 30px auto;
+	padding: 3%;
+	color:rgb(141, 44, 133);
+	.inner {
+		background-color: rgb(204, 220, 238);
+		margin: 1%;
+		padding: 3%;
+	}
+	.paymt-header{
+		text-decoration: underline;
+	}
+	button {
+		width: 30%;
+		height: 50px;
+		margin-top: 50px;
+		border: none;
+		font-size: 20px;
+		background-color: #660c32;
+		color: rgb(124, 164, 211);
+		border-radius: 10px;
+		transition: 500ms all ease-in-out;
+		font-weight: bold;
+		
+	}
+}
